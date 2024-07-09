@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @x86girl
 - 👀 I’m interested in Development, Fedora packaging and Science
 - 🌱 I’m currently learning how to create a dashboard using Dash, how to create a game using Unity and C#.
-- 💞️ I’m looking to collaborate on any interesting Open Source project
+- 💞️ I’m looking for collaboration on any interesting Open Source project
 - 📫 How to reach me @x86girl on Telegram.
 
 <!---
