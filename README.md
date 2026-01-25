@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @x86girl
-- 👀 I’m interested in Development, Fedora packaging and Science
-- 🌱 I’m currently learning how to create a dashboard using Dash, how to create a game using Unity and C#.
-- 💞️ I’m looking for collaboration on any interesting Open Source project
-- 📫 How to reach me @x86girl on Telegram.
+-### 👋 Hi there! I’m Priscila (@x86girl)
 
-<!---
-x86girl/x86girl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Fedora Packager | Software Engineer | Researcher** 🐧
+*I build tools for Science and keep the penguin happy.*
+
+My work sits at the intersection of **Astrophysics/HealthTech** and **System Engineering**. I love low-level challenges and reproducible science.
+
+🛠️ **My Toolbox:**
+* **Core:** Python, C, Shell Script.
+* **OS:** Fedora Linux (Maintainer/Packager).
+* **Research:** Machine Learning & Data Analysis.
+
+🌱 **Currently exploring:**
+Unlocking high-performance computing with **Julia** 🟣.
+
+🐈 **Fun fact:**
+I’m fluent in Bash and Cat language ("Meow").
+
+📫 **Reach me:** @x86girl on Telegram.
